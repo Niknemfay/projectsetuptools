@@ -1,0 +1,9 @@
+{
+  "name": "com.codeumgames.projectsetuptools",
+  "version": "1.0.5",
+  "displayName": "Project Setup Tools",
+  "description": "Package contains references to all default things, that can be useful for developing a Unity project from scratch",
+  "author": {
+"name": "CodeumGames"
+  },
+}
